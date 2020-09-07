@@ -9,6 +9,6 @@ def using_while
 
 end
 
-using_while 
+using_while
 
 puts "Break"
